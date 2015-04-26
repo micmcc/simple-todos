@@ -1,2 +1,2 @@
 # simple-todos
-Meteor Tutoral
+Meteor Tutorial, a simple todo list
